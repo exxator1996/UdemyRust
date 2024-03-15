@@ -4,4 +4,3 @@ release/
 rls/
 *.o
 .vscode/
-.editorconfig

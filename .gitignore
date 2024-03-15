@@ -4,4 +4,4 @@ release/
 rls/
 *.o
 .vscode/
-.editorconfig
+Chapter01/hello_world/.editorconfig
